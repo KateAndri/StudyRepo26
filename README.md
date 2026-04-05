@@ -17,5 +17,5 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/your-username/StudyRepo26.git
+git clone https://github.com/KateAndri/StudyRepo26.git
 cd StudyRepo26
